@@ -1,16 +1,16 @@
-### Hi there 👋
 
-<!--
-**anaMariaGF/anaMariaGF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ ## Hi! I'm Ana 👋😃
+ ### I'm a multi-platform application development student.💃🚵‍♂️♟💻 
+    const anaMariaGF = { 
+     pronouns: "she" | "her",
+     values: [Creativity, Beginner's mindset and curiosity, Determination],
+     code: [Java: "SOLID", Kotlin],
+     tools: [MySQL Workbench, pgAdmin, diagrams.net],
+     techCommunities: { 
+                          creator of: "Mujer y Código"
+                      }
+     }
 
-Here are some ideas to get you started:
+Hi: "🤝 I love connecting with diferent people so if you want to say hi, I'll be happy to meet you more!🙂✌"
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📧 How to reach me: mujerycodigo@gmail.com
