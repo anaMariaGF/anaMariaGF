@@ -1,6 +1,6 @@
 
  ## Hi! I'm Ana 👋😃
- ### I'm a multi-platform application development student.💃🚵‍♂️♟💻 
+ ### I'm studing vocational training course in development of IT applications.💃🚵‍♂️♟💻 
     const anaMariaGF = { 
      pronouns: "she" | "her",
      values: [Creativity, Beginner's mindset and curiosity, Determination],
