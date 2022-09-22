@@ -11,6 +11,6 @@
                       }
      }
 
-Hi: "🤝 I love connecting with diferent people so if you want to say hi, I'll be happy to meet you more!🙂✌"
+Hi: "🤝 I love connecting with difFerent people so if you want to say hi, I'll be happy to meet you more!🙂✌"
 
 📧 How to reach me: mujerycodigo@gmail.com
